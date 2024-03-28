@@ -36,7 +36,4 @@ Wtyczka rozszerzenia do przeglądarki Chrome (chromium) do zamiany miniatur.
 4. Możesz także kliknąć "Surprise", aby zobaczyć coś nieoczekiwanego.
 5. Baw się dobrze!
 
-***
-
-## Panel
 
