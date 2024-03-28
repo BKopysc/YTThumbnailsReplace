@@ -2,7 +2,7 @@
 Chrome extension plugin for replacing thmubnails (for fun)
 
 ## Instalation:
-1. Download this repository.
+1. Download this repository. [Stable releases](https://github.com/BKopysc/YTThumbnailsReplace/releases/tag/stable)
 2. Open extensions on chromium browser.
 3. Check "developer mode".
 4. Upload downloaded folder of this extension.
