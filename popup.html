@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+  <link href='https://unpkg.com/css.gg@2.0.0/icons/css/play-stop.css' rel='stylesheet'>
+</head>
+
+<body style="min-width: 400px;" class="has-background-primary-dark">
+  <h1 style="text-align: center;" class="title is-5 pt-5">YTube Thumbnails Replacer</h2>
+    <p style="font-size: 14px;" class="mb-5 has-text-centered">Paste urls for images seperated by comma ( , )</p>
+    <div class="px-4">
+      <textarea id="urlsInput" rows="5" class="textarea is-small" placeholder="..."></textarea>
+    </div>
+    <div class="buttons mt-5 mb-4 is-centered">
+      <button class="button is-info" id="submit-btn">Submit</button>
+      <button class="button is-primary" id="load-default-btn">Surprise</button>
+    </div>
+    <div class="buttons is-centered mt-3">
+      <button class="button is-danger" id="stop-btn" disabled>
+        <span class="icon">
+          <i class="gg-play-stop"></i>
+        </span>
+        <span>Stop</span>
+      </button>
+    </div>
+    <div style="font-size: 14px; height: 22px;" class="has-text-centered mb-4">
+      <span class="has-text-danger" style="display: none;" id="load-error">Error with urls</span>
+      <span class="has-text-success" style="display: none;" id="load-success">Ready</span>
+    </div>
+    <div class="has-text-centered pb-5">
+      <span class="is-size-7">
+        Default data is from <a href="https://pl.wikipedia.org/wiki/Jacek_Malczewski" target="_blank">Jacek Malczewski wikipedia</a>
+      </span>
+    </div>
+    <script src="popup.js"></script>
+</body>
+
+</html>
