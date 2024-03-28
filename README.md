@@ -1,5 +1,9 @@
-# YT Thumbnails Replace
+# YTube Thumbnails Replacer
 Chrome extension plugin for replacing thmubnails (for fun)
+
+![image](https://github.com/BKopysc/YTThumbnailsReplace/assets/57834846/6326a41a-126c-4b9d-8e51-e20a42c53dd6)
+
+***
 
 ## Instalation:
 1. Download this repository. [Stable releases](https://github.com/BKopysc/YTThumbnailsReplace/releases/tag/stable)
@@ -16,7 +20,7 @@ Chrome extension plugin for replacing thmubnails (for fun)
 
 ***
 
-# Zamiana miniatur na YT
+# Zamiana miniatur na YTube
 Wtyczka rozszerzenia do przeglądarki Chrome (chromium) do zamiany miniatur.
 
 ## Instalacja:
@@ -31,3 +35,8 @@ Wtyczka rozszerzenia do przeglądarki Chrome (chromium) do zamiany miniatur.
 3. Wklej adresy URL obrazów i kliknij "Submit".
 4. Możesz także kliknąć "Surprise", aby zobaczyć coś nieoczekiwanego.
 5. Baw się dobrze!
+
+***
+
+## Panel
+
